@@ -1,4 +1,7 @@
 ## >> Bem-Vindo Ao meu perfil gitHub! <<
+  - Olá, sou o Felipe Uemura, tenho 19 anos e estudo Ciência da Computação.
+  - Faço faculdade na Universidade Positivo(3 periodo).
+  - Estou começando minha carreira como programador.
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=FelipeUemura11&show_icons=true&theme=dark"
