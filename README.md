@@ -1,6 +1,6 @@
 ## ═════════════════════ஜ۩۞۩ஜ══════════════════════  ••••••••••••••••••••••••••● 𝓦𝒆𝓵𝓬𝓸𝓶𝒆 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝒇𝓲𝓵𝒆 ●••••••••••••••••••••••  ═════════════════════ஜ۩۞۩ஜ══════════════════════
 ## 
-  - Olá, sou o Felipe Uemura, tenho 19 anos e estudo Ciência da Computação.
+  - Olá, sou o Felipe Uemura, tenho 20 anos e estudo Ciência da Computação.
   - Faço faculdade na Universidade Positivo(4 periodo).
   - Estou começando minha carreira como programador.
   - Tenho o objetivo de conhecer todos os ramos dessa area.
